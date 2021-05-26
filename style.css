@@ -2,4 +2,17 @@ body{
     font-size: 30pt;
     margin-top: 0px;
     text-align: center;
+    border-bottom: 10px solid black;
+}
+
+.ksd1346{
+    color: skyblue;
+    text-align: center;
+    font-size: 25px;
+}
+
+#ksd1346{
+    color: skyblue;
+    text-align: center;
+    font-size: 25px;
 }
